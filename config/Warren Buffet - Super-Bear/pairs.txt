@@ -1,0 +1,2 @@
+ALL_buy_available_volume_trigger = 120
+ALL_hidden_pairs = BNBBTC
